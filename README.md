@@ -600,7 +600,7 @@
 | 554  | Александр Петкогло                 | Senior Frontend Developer, freelancer   |
 | 555  | Плевков Дмитрий                    | Backend-developer, AIM                  |
 | 556  | Павлов Игорь                       | Fullstack developer                     |
-| 557  | Елизавета Боржкова                 | Business Analyst                        |
+| 557  | Боржкова Елизавета                 | Business Analyst, Kaspersky Lab         |
 | 558  | Шимолин Алексей                    | Fullstack developer                     |
 | 559  | Ульянов Владислав                  | Backend Sowftware Developer, BelkaCar   |
 | 560  | Nikolay Kapustin                   | Apple Evagnelist, Digital Horizon       |
